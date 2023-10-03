@@ -1,12 +1,7 @@
 ![image](https://user-images.githubusercontent.com/120000843/213905231-52db416b-d8cb-4691-97b2-b24f599a0a5d.png)
 
-Hi there 👋<br>
-🚀 Passionate about building software that makes a difference.<br>
-💻 Experienced in web development, specifically with python and html/css.<br>
-💡 Always seeking to learn new technologies and improve my skills.<br>
-💬 Strong communicator and collaborator, able to work well in both individual and team settings.<br>
-🌎 Interested in the intersection of technology and social impact.<br>
-🚧 Currently working on personal projects to expand my knowledge of machine learning and artificial intelligence.<br>
+Hi there 👋
+
 
 
 <!--
