@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./assets/waving.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Arpan Gupta</h2>
+<img alt="Night Coding" src="assests/Night-Coding.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Arpan Gupta</h2>
 
 ###  💫 About Me:
 I'm a full-stack developer, passionate about building projects and contributing to open source. I also have a strong command of programming languages, and I'm currently building a media brand. Additionally, I enjoy video editing and do it as a freelancer too.  
