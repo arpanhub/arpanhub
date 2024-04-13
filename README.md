@@ -3,7 +3,7 @@
 ##  💫 About Me:
 Hey Arpan! I'm a full-stack developer, passionate about building projects and contributing to open source. I have a strong command of programming languages, and I'm currently working on building a media brand. Additionally, I enjoy video editing and do it as a freelancer too.
 <hr>
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" height="220"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" height="200"/>
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
