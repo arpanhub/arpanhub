@@ -1,9 +1,11 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Arpan gupta</h2>
-<br>
+
 ##  💫 About Me:
-Hey Arpan! I'm a full-stack developer, passionate about building projects and contributing to open source. I have a strong command of programming languages, and I'm currently working on building a media brand. Additionally, I enjoy video editing and do it as a freelancer too.
+I'm a full-stack developer, passionate about building projects and contributing to open source. I also have a strong command of programming languages, and I'm currently building a media brand. Additionally, I enjoy video editing and do it as a freelancer too.  
+✉️ &nbsp;You can shoot me an email at arpangupta644@gmail.com! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions!
 <hr>
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" height="200"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" height="150"/>
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
@@ -36,6 +38,7 @@ Hey Arpan! I'm a full-stack developer, passionate about building projects and co
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
+<hr>
 
 
 ## 📊 GitHub Stats:
@@ -52,9 +55,11 @@ Hey Arpan! I'm a full-stack developer, passionate about building projects and co
 <p align="center">
   <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=arpanhub&theme=dark&hide_border=false"/>
 </p>
+<hr>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=arpanhub&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)  
+<hr>
 
 ## 🌐 Socials:
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@guptaarpan_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arpan-gupta-) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@GuptaArpan_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@thelogicgen)  -->
@@ -95,8 +100,3 @@ Hey Arpan! I'm a full-stack developer, passionate about building projects and co
 </div>
 <br>
 <hr><br>
-<div align="center">
-  <a href="https://github.com/arpanhub/">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
