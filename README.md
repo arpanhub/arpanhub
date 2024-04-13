@@ -1,4 +1,4 @@
-<img alt="Header" src="assests/header.png" width='100%'>
+<img alt="Header" src="assests/ArpanBanner.png" width='100%'>
 
 <img alt="Night Coding" src="assests/Hand Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Arpan Gupta</h2>
 
