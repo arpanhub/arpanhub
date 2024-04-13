@@ -44,10 +44,10 @@ I'm a full-stack developer, passionate about building projects and contributing 
 ## 📊 GitHub Stats:
 
 <p align="center" >
-  <a href="https://github.com/Adityakanoi2001">
+  <a href="https://github.com/arpanhub">
     <img height="190em" src="https://github-readme-stats.vercel.app/api?username=arpanhub&theme=dark&hide_border=false&include_all_commits=true&count_private=false"/>
   </a>
-  <a href="https://github.com/Adityakanoi2001">
+  <a href="https://github.com/arpanhub">
     <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpanhub&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
   </a>
 </p>
