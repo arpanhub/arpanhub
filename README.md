@@ -47,7 +47,7 @@ I'm a full-stack developer, passionate about building projects and contributing 
 
 <p align="center" >
   <a href="https://github.com/arpanhub">
-    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=arpanhub&theme=dark&hide_border=false&include_all_commits=true&count_private=false"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=arpanhub&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
   </a>
   <a href="https://github.com/arpanhub">
     <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpanhub&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
@@ -95,8 +95,8 @@ I'm a full-stack developer, passionate about building projects and contributing 
 <br>
 <div align="center">
 <div>
-  <a href="https://visitcount.itsvg.in" target="_blank">
-    <img src="https://visitcount.itsvg.in/api?id=arpanhub&icon=0&color=0" alt="Visit Count" style="height: 35px;">
+<!--   <a href="https://visitcount.itsvg.in" target="_blank"> -->
+<!--     <img src="https://visitcount.itsvg.in/api?id=arpanhub&icon=0&color=0" alt="Visit Count" style="height: 35px;"> -->
   </a>
 </div>
 </div>
