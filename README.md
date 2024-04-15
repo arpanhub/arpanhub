@@ -10,7 +10,6 @@ I'm a full-stack developer, passionate about building projects and contributing 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" height="150"/>
 
 ### 🛠 &nbsp;Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
@@ -70,7 +69,7 @@ I'm a full-stack developer, passionate about building projects and contributing 
   <a href="https://instagram.com/@guptaarpan_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" style="height: 25px;" /></a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/arpan-gupta-" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 25px;" /></a>&nbsp;&nbsp;
   <a href="https://x.com/@GuptaArpan_" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" style="height: 25px;" /></a>&nbsp;&nbsp;
-  <a href="https://youtube.com/@@thelogicgen" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube" style="height: 25px;" /></a>&nbsp;&nbsp;
+  <a href="https://youtube.com/@thelogicgen" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube" style="height: 25px;" /></a>&nbsp;&nbsp;
 </p>
 
 ## ✍️ Random Dev Quote
