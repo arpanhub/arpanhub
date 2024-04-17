@@ -82,18 +82,8 @@ I'm a full-stack developer, passionate about building projects and contributing 
 </div>
 
 <!-- Top Contributed Repo -->
-## 🔝 Top Contributed Repo
-<div align="center">
-<div style="margin-bottom: 20px;">
-  <img src="https://github-contributor-stats.vercel.app/api?username=arpanhub&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
-</div>
-</div>
 
 <!-- Visit Count -->
-##  ▶️ Visit count 
-<br>
-<div align="center">
-<div>
 <!--   <a href="https://visitcount.itsvg.in" target="_blank"> -->
 <!--     <img src="https://visitcount.itsvg.in/api?id=arpanhub&icon=0&color=0" alt="Visit Count" style="height: 35px;"> -->
   </a>
