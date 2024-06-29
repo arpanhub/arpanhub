@@ -3,7 +3,7 @@
 <img alt="Night Coding" src="assests/Hand Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Arpan Gupta</h2>
 
 ###  💫 About Me:
-I'm a full-stack developer, passionate about building projects and contributing to open source. I also have a strong command of programming languages, and I'm currently building a media brand. Additionally, I enjoy video editing and do it as a freelancer too.  
+I'm a full-stack developer, passionate about building projects and contributing to open source. I also have a strong command of programming languages, and I'm currently building Digital Brand [The logicgen](www.thelogicgen.com) Agency providing services to brands. Additionally, I enjoy video editing and do it as a freelancer too.  
 ✉️ &nbsp;You can shoot me an email at arpangupta644@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions!
 <hr>
