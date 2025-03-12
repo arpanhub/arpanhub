@@ -5,7 +5,7 @@
 ###  💫 About Me:
 I'm a full-stack developer, passionate about building projects and contributing to open source. I also have a strong command of programming languages, and I'm currently building Digital Brand [The logicgen](www.thelogicgen.com) Agency providing services to brands. Additionally, I enjoy video editing and do it as a freelancer too.  
 ✉️ &nbsp;You can shoot me an email at arpangupta644@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1btUVe28RjpRu4ynd8_TrPonOed0rEyDp/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 <hr>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" height="150"/>
 
@@ -52,10 +52,10 @@ I'm a full-stack developer, passionate about building projects and contributing 
     <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpanhub&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
   </a>
 </p>
-
 <p align="center">
   <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=arpanhub&theme=dark&hide_border=false"/>
 </p>
+
 <hr>
 
 ## 🏆 GitHub Trophies
